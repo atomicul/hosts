@@ -1,3 +1,5 @@
+#salut
+
 #!/usr/bin/env bash
 
 HOSTS_FILE=${1:-"$HOME/etc/hosts"}
